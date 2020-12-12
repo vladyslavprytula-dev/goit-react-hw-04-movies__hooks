@@ -1,0 +1,19 @@
+@import './base.scss';
+
+.Review {
+}
+
+.Review__item {
+  max-width: 900px;
+  margin: auto;
+}
+
+.Review__content {
+  margin: 0;
+  text-align: justify;
+  margin-bottom: 30px;
+}
+
+.Review__author {
+  margin-bottom: 20px;
+}
